@@ -18,5 +18,8 @@
 		"typescript": "^5.0.4",
 		"vite": "^4.2.1"
 	},
-	"type": "module"
+	"type": "module",
+	"dependencies": {
+		"svelte-component-to-image": "^0.1.0"
+	}
 }
